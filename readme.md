@@ -7,7 +7,7 @@
 >gulp
 
 ## 说明
-本测试用到了[retina.js]和photoshop[retina action]生成
+本测试用到了[retina.js]和photoshop的[retina action](http://retinize.it/)生成@2x图片
 
-[retina.js](http://imulus.github.io/retinajs/)
-[retina action](http://retinize.it/)
+
+
